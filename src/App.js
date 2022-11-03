@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+import {
+  ChainFactoryConfigs,
+  ChainFactory,
+  Chain,
+  AppConfigs,
+  ChainParams
+} from "xp.network";
 function App() {
   return (
     <div className="App">
